@@ -65,7 +65,8 @@ const circleColorArr = ["pink","red","black","gray","green","blue","orange"];
 
 # 결과
 
-<img width="883" alt="image" src="result1.png">
-<img width="883" alt="image" src="result2.png">
+<img width="661" alt="result1" src="https://user-images.githubusercontent.com/129278491/236667800-2e45e153-5bdc-44b0-ac4d-59b60474a343.png">
+
+<img width="1223" alt="result2" src="https://user-images.githubusercontent.com/129278491/236667802-3c8fa5c2-b61c-4f66-8c9d-8b5df4471397.png">
 
 
